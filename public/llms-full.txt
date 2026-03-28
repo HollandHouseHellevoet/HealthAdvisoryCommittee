@@ -1,0 +1,694 @@
+HAC Intelligence — The Rojas Report
+CMS Healthcare Advisory Committee Member Intelligence
+Published: March 28, 2026
+============================================================
+
+KEY FINDING: Zero of 18 committee members have any stated interest in expanding physician ownership of hospitals.
+
+============================================================
+MEMBER PROFILES
+============================================================
+
+--- MEMBER 01 ---
+Name: Elizabeth M. Fago
+Nickname: The Donor
+Title: Founder
+Organization: Home Quality Management / Palm Health Partners
+Sector: Nursing Homes & Post-Acute Care
+Base: North Palm Beach, Florida
+
+Overview:
+Nursing home and post-acute care empire operator. Her son Paul Walczak was convicted of diverting $7M+ from employee paychecks to fund personal luxury spending including a $2M yacht. Trump pardoned Walczak in May 2025, weeks after Fago attended a $1 million-per-person fundraiser at Mar-a-Lago. A payroll company co-owned by Walczak and Fago owed $8.3M to the IRS, growing to $10M+ by 2019.
+
+Career Arc:
+- Founder, Home Quality Management (Current)
+- Operator, Palm Health Partners (Current)
+- Managing Member, FW Healthcare Investments LLC
+- Advisory Council, Harvard Medical School Systems Biology
+- Trump Nominee, National Cancer Advisory Board (2020)
+- Board Member, Health Care District of Palm Beach County (Appointed by Gov. Jeb Bush)
+
+Red Flags:
+- Pay-to-play pattern: million-dollar Mar-a-Lago fundraiser followed by son's pardon followed by federal advisory committee appointment.
+- Nursing home operator on a committee advising Medicaid and Medicare, with direct financial interest in every policy recommendation.
+- FW Healthcare Investments sued for $6.3M in 2019 Florida appellate case.
+- Trump pardoned multiple nursing home executives convicted of multimillion-dollar fraud.
+- No evident policy expertise.
+
+POH Relevance:
+Nursing home and post-acute care operator with direct financial dependency on Medicare and Medicaid reimbursement. No stated interest in physician ownership or expanding competitive alternatives to consolidated systems.
+
+Sources:
+1. Skilled Nursing News — Trump Pardons Walczak — https://skillednursingnews.com/2025/05/trump-pardons-florida-nursing-home-exec-convicted-of-over-10m-in-tax-fraud/
+2. McKnight's — Trump pardons nursing home owner — https://www.mcknights.com/news/trump-pardons-nursing-home-owner-and-supporter-convicted-of-7m-tax-evasion/
+3. Revolving Door Project — Fago profile — https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-elizabeth-fago/
+4. Justia — FW Healthcare Investments v. Halle — https://law.justia.com/cases/florida/fourth-district-court-of-appeal/2019/19-0179.html
+
+--- MEMBER 02 ---
+Name: Robert Bessler, MD
+Nickname: The Hospitalist Industrialist
+Title: CEO
+Organization: Honest Health
+Sector: Value-Based Care / Hospital Medicine Staffing
+Base: Nashville, TN
+
+Overview:
+Built Sound Physicians into a $2B+ hospitalist staffing empire across 450+ hospitals in 47 states over 22 years. Named CEO of Honest Health in April 2024, a value-based care company founded by Adam Boehler (former CMMI director, Trump 1.0) and Abe Sutton (current CMMI director). Honest Health raised $140M. Bessler now advises CMS on Medicare policy while his company's founders designed and currently lead the same programs.
+
+Career Arc:
+- CEO, Honest Health (April 2024–Present)
+- Founder & CEO, Sound Physicians (2001–2023)
+- Board of Directors, LifeStance Health (NYSE: LFST)
+- Personal investment vehicle, Alpine Glow Capital
+
+Business Interests & Affiliations:
+- Sound Physicians — $2B+ revenue, 450+ client hospitals, 47 states.
+- Honest Health — $140M raised from NewSpring Healthcare, Welsh Carson, Oak HC/FT, Durable Capital, Rubicon Founders.
+- LifeStance Health board — publicly traded behavioral health.
+- Invested alongside Towerbrook Capital, Silversmith, Revelstoke, Summit Partners.
+
+Red Flags:
+- Honest Health's founders are Trump's CMS Innovation architects — Boehler ran CMMI in Trump 1.0, Sutton runs it now. Bessler is their hand-picked CEO sitting on an advisory committee reporting to the same agency.
+- Honest Health's entire business model depends on Medicare risk adjustment and value-based payment, the committee's stated focus area.
+- No separation between company financial interests and advisory role.
+
+POH Relevance:
+Honest Health's business model is built on Medicare risk adjustment and value-based care contracting. The committee's Medicare Advantage sustainability agenda directly serves his company's revenue model. No stated interest in physician ownership expansion.
+
+Sources:
+1. Honest Health CEO Announcement — https://honesthealth.com/honest-medical-group-names-robert-bessler-md-as-ceo/
+2. Honest Health $140M Raise — https://www.prnewswire.com/news-releases/honest-health-raises-140-million-to-advance-value-based-care-for-health-systems-newspring-leads-investment-302698027.html
+3. LifeStance Health Board — https://investor.lifestance.com/board-member/robert-bessler-md/
+
+--- MEMBER 03 ---
+Name: David Carmouche, MD
+Nickname: The Payer-Provider Shapeshifter
+Title: EVP & Chief Clinical Transformation Officer
+Organization: Lumeris
+Sector: Value-Based Care / Managed Care
+
+Overview:
+Has personally sat on every side of the healthcare table: insurer, provider, retail disruptor, and technology vendor. Designed payer contracts at BCBS Louisiana, ran provider networks at Ochsner, led retail health at Walmart alongside an Optum/UnitedHealth partnership, and now deploys AI for primary care teams at Lumeris. Every career move traces the consolidation of healthcare by the payer-industrial complex.
+
+Career Arc:
+- EVP & Chief Clinical Transformation Officer, Lumeris (Current)
+- SVP Healthcare Delivery, Walmart Health
+- President, Ochsner Health Network
+- EVP & CMO, Blue Cross Blue Shield of Louisiana
+- Private practice physician, Cardiology/Internal Medicine
+
+Red Flags:
+- Sat on every side of the table — insurer, provider, retail disruptor, technology vendor — with expertise in consolidating each.
+- Walmart Health partnership with Optum/UnitedHealth was part of UnitedHealth's vertical integration strategy displacing independent physicians.
+- Value-based care "enablement" makes MA consolidation profitable. Lumeris profits when large systems, not physicians, control patient attribution.
+- Harvard Business School alumnus — understands financial engineering of value-based care from every angle.
+
+POH Relevance:
+Every role has served payer-aligned primary care consolidation. Physician-owned practices and hospitals represent the alternative model to everything he has built. No stated interest in physician ownership expansion.
+
+Sources:
+1. Lumeris Leadership — https://www.lumeris.com/about-lumeris/leadership/dr-david-carmouche/
+2. AcademyHealth Profile — https://academyhealth.org/about/people/david-carmouche-md
+
+--- MEMBER 04 ---
+Name: Clive K. Fields, MD
+Nickname: The VillageMD Walgreens Entanglement
+Title: Co-Founder & CMO
+Organization: VillageMD
+Sector: Primary Care Consolidation
+Base: Houston, TX
+
+Overview:
+Co-founded VillageMD in 2013, which became majority-owned by Walgreens Boots Alliance, then participated in a $8.9B acquisition of Summit Health-CityMD with Cigna/Evernorth taking a minority stake. Walgreens was subsequently acquired by private equity firm Sycamore Partners for $10B+, making VillageMD a standalone PE-owned entity. His committee role gives him influence over the Medicare payment policy that drives VillageMD's value-based contracts.
+
+Career Arc:
+- Co-Founder & CMO, VillageMD (2013–Present)
+- Physician executive, Accountable Care Coalition of Texas
+- Inherited Village Family Practice, Founded 1975, Houston
+- Associate Professor, Baylor College of Medicine and UT Houston
+
+Business Interests & Affiliations:
+- VillageMD — 680+ locations, 20,000 employees post-Summit acquisition.
+- Walgreens majority ownership → $8.9B Summit Health-CityMD acquisition with Cigna/Evernorth minority stake.
+- 2025: Sycamore Partners acquires Walgreens, VillageMD becomes standalone PE entity.
+- Three-time Modern Healthcare "100 Most Influential." AAFP Physician Executive of the Year 2018.
+
+Red Flags:
+- Co-founded what became a $9B acquisition target, now PE-owned. Committee role gives influence over Medicare payment policy driving VillageMD's contracts.
+- VillageMD's entire business model is Medicare Advantage risk-based primary care — exactly what the committee is chartered to advise on.
+- Cigna/Evernorth minority stake means the nation's second-largest insurer has a financial interest in VillageMD's policy outcomes.
+
+POH Relevance:
+VillageMD represents the aggregation of independent primary care practices into corporate platforms under MA value-based contracts — the model that displaces physician-owned independent practice. No stated interest in physician ownership restoration.
+
+Sources:
+1. Walgreens-VillageMD-Summit Health $9B Deal — https://www.healthcaredive.com/news/walgreens-villagemd-summit-health-cigna-evernorth-merger-close/635902/
+2. Sycamore-Walgreens Acquisition — https://www.fiercehealthcare.com/finance/sycamore-partners-closes-acquisition-walgreens-splits-pharmacy-retailer-5-standalone
+3. Health Evolution Bio — https://www.healthevolution.com/bios/speaker/clive-fields-md/
+
+--- MEMBER 05 ---
+Name: Kyu Rhee, MD
+Nickname: The IBM-to-Aetna-to-Community Health Pipeline
+Title: President & CEO
+Organization: NACHC (National Association of Community Health Centers)
+Sector: Insurer-Aligned / Community Health
+
+Overview:
+Went from designing coverage policy for 65 million Aetna members to running NACHC — which lobbies the agencies Aetna profits from — while simultaneously sitting on the board of Providence Health Plan, a Medicaid/Medicare participating insurer. Spent a decade as IBM's Chief Health Officer during Watson Health's well-documented failure, which provided "useless and sometimes dangerous recommendations" in oncology and burned $62M at MD Anderson before cancellation.
+
+Career Arc:
+- President & CEO, NACHC (July 2023–Present)
+- SVP & CMO, Aetna/CVS Health (65M members)
+- Chief Health Officer, IBM Watson Health (~2012–2022)
+- Chief Public Health Officer, HRSA
+- Director, Office of Innovation, NIH
+- National Health Service Corps community physician
+
+Business Interests & Affiliations:
+- NACHC — 1,400+ FQHCs, 32.5M patients. Federal lobbying: $650K–$800K+ annually.
+- Active board seat: Providence Health Plan (Medicaid/Medicare participating insurer, subsidiary of third-largest nonprofit health system).
+- CHAI Board (Coalition for Health AI) — founding partners include Microsoft, Google, Oracle, Mayo Clinic.
+- Advisory Board, Found (GLP-1/weight loss startup).
+- Advisory Board, Grin (dental tech, FDA-listed device).
+- World Economic Forum Agenda Contributor. Senior Scholar, Stanford School of Medicine.
+
+Red Flags:
+- Active insurance board seat while advising CMS — sits on board of Providence Health Plan (Medicaid/Medicare insurer) while serving on committee that advises on those same programs.
+- NACHC lobbies CMS and Congress ($650K–$800K+ annually) while Rhee simultaneously advises the agency being lobbied.
+- IBM Watson Health: "useless and sometimes dangerous recommendations" in oncology. MD Anderson project burned $62M before cancellation.
+- GLP-1 startup advisory role intersects directly with active CMS coverage debates.
+- Modern Healthcare "100 Most Influential" 2025.
+
+POH Relevance:
+As former CMO of Aetna (65M members) and current board member of Providence Health Plan, Rhee represents payer-integrated medicine. NACHC is focused on FQHC funding and managed care — not physician ownership. No stated interest in Section 6001 reform.
+
+Sources:
+1. NACHC Bio — https://www.nachc.org/nachc-bio/kyu-rhee-md-mpp/
+2. Providence Health Plan Board — https://www.providencehealthplan.com/about-providence/providence-news/providence-health-plan-welcomes-dr-kyu-rhee-to-board-of-directors
+3. CVS Health Announcement — https://www.cvshealth.com/news/community/cvs-health-names-kyu-rhee-md-mpp-as-senior-vice-president-and.html
+4. CHAI Board — https://www.prnewswire.com/news-releases/coalition-for-health-ai-chai-names-board-of-directors-and-ceo-302077922.html
+
+--- MEMBER 06 ---
+Name: Linda Thomas-Hemak, MD
+Nickname: The Safety Net Voice
+Title: President & CEO
+Organization: The Wright Center for Community Health
+Sector: Safety Net / FQHCs
+Base: Scranton, PA
+
+Overview:
+The closest thing to a genuine safety-net representative on this committee. Quintuple board-certified (internal medicine, pediatrics, addiction medicine, obesity medicine, nutrition), Harvard-trained, returned to her hometown of Jermyn, PA to run 13 community health centers. Runs the largest HRSA-funded Teaching Health Center GME Safety Net Consortium in the nation. No corporate ties. No PE backing. No controversies found. One voice among 18.
+
+Career Arc:
+- President & CEO, The Wright Center (2012–Present)
+- President, The Wright Center (2007–2012)
+- Physician, The Wright Center (2001–2007)
+- Member, HRSA Council on Graduate Medical Education
+- Founding board member, American Association of Teaching Health Centers
+
+Red Flags:
+- Institutional funding (HRSA grants, Medicaid reimbursement, 340B) creates modest financial dependency on CMS policy — structural to FQHCs, not a personal conflict.
+- One voice among 18 on a committee whose charter prioritizes MA sustainability over FQHC funding.
+- NACHC Lifetime Achievement Award 2025 connects her institutionally to Kyu Rhee (NACHC CEO, fellow committee member).
+
+POH Relevance:
+Thomas-Hemak represents genuine physician-led community health. Her presence provides the committee credibility it otherwise lacks. However, her institutional interests (FQHC funding, HRSA grants) are distinct from and do not advance physician-owned hospital expansion.
+
+Sources:
+1. The Wright Center Bio — https://thewrightcenter.org/leadership/linda-thomas-hemak/
+2. NACHC Lifetime Achievement Award — https://thewrightcenter.org/president-and-ceo-at-the-wright-center-receives-national-lifetime-achievement-award/
+
+--- MEMBER 07 ---
+Name: William J. Gassen, JD
+Nickname: The Hospital Lobby's Incoming Chairman
+Title: President & CEO
+Organization: Sanford Health
+Sector: Integrated Hospital System
+Base: Sioux Falls, SD
+
+Overview:
+Runs a $12.5B integrated health system with 53,000 employees and 425,000 health plan members. The AHA Chair-Elect Designate — will become Chairman of the American Hospital Association in 2027. The AHA spent $29M+ on lobbying in 2023 and is the leading institutional force opposing physician-owned hospitals. The AHA actively opposes H.R. 3022 (Restoring Rights of Physicians to Own Hospitals Act). Gassen also sits on the board of Oscar Health (NYSE: OSCR), a technology-driven insurer backed by 8VC.
+
+Career Arc:
+- President & CEO, Sanford Health (2020–Present)
+- CAO / CHRO / Corporate Counsel, Sanford Health
+- Healthcare litigator, Boyce Greenfield Pashby Welk
+
+Business Interests & Affiliations:
+- Sanford Health — $12.5B system, 53,000 employees, 2M+ patients, ~425,000 health plan members.
+- 2025 mergers: Marshfield Clinic Health System (Wisconsin) and Prairie Lakes Healthcare System.
+- AHA Chair-Elect Designate (chairs 2027). AHA spent $29M+ lobbying in 2023.
+- Oscar Health Board (NYSE: OSCR) — co-founded with 8VC/Joe Lonsdale backing.
+- Chair, Coalition to Strengthen America's Healthcare.
+- Four consecutive years Modern Healthcare "100 Most Influential."
+
+Red Flags:
+- The AHA is the single most powerful institutional opponent of physician-owned hospitals. Its incoming chairman sits on a CMS advisory committee.
+- AHA actively opposes H.R. 3022 (Restoring Rights of Physicians to Own Hospitals Act) — on the record as of July 2025.
+- Oscar Health board seat: governs a health insurer while running a $12.5B system with its own 425,000-member health plan — advising CMS on programs both entities profit from.
+- Not a physician. JD background — former healthcare litigator.
+
+POH Relevance:
+The most significant POH-adverse member on this committee. As incoming AHA chairman, Gassen represents the apex of institutional hospital lobbying against physician ownership. His presence on a CMS advisory committee is a direct channel from the hospital lobby to federal payment policy.
+
+Sources:
+1. Sanford Health Profile — https://news.sanfordhealth.org/myprofilepress/Bill.Gassen/
+2. AHA Chair-Elect Designate — https://www.aha.org/press-releases/2025-07-20-aha-board-names-bill-gassen-chair-elect-designate
+3. Oscar Health Board — https://www.hioscar.com/press/oscar-health-appoints-bill-gassen-and-laura-lang-to-its-board-of-directors
+4. AHA Opposes POH Ban Repeal — https://www.aha.org/news/headline/2025-07-08-aha-house-bill-would-repeal-15-year-ban-new-physician-owned-hospitals-destabilize-health-care-access
+
+--- MEMBER 08 ---
+Name: Dennis Laraway
+Nickname: The Cleveland Clinic's Money Man
+Title: EVP & CFO
+Organization: Cleveland Clinic
+Sector: Hospital System Finance
+
+Overview:
+Every employer in Laraway's career is a direct competitor to physician-owned hospitals and a direct beneficiary of the Section 6001 ban. He is now CFO of Cleveland Clinic — an $18B system with $934M in 340B drug revenue over three years, $28.85M in federal fraud settlements in the last four years, and Medicare rate advantages of 3–5x over physician-owned facilities for the same procedures.
+
+Career Arc:
+- EVP & CFO, Cleveland Clinic — $18B revenue, 23 hospitals (2023–Present)
+- EVP & CFO, Banner Health — $12B, 32 hospitals (2017–2023)
+- EVP & CFO, Memorial Hermann — $5B+, 19 hospitals (2011–2017)
+- CFO, Scott & White Healthcare (~2006–2011)
+- VP & CFO, St. Joseph's Hospital / Dignity Health (2002–2006)
+- CFO, Seton Health / Ascension (Pre-2002)
+
+Business Interests & Affiliations:
+- Cleveland Clinic — $18B revenue, 23 hospitals.
+- 340B Revenue: $934M received (April 2020–June 2023) via "rural-referral center" loophole despite being in downtown Cleveland.
+- Banner|Aetna — architect of Banner's joint venture with Aetna (CVS Health) to sell insurance in Arizona.
+- Federal lobbying: $500,000 + $779,358 PAC contributions in 2024 cycle.
+- Faculty at Arizona State and Rice University.
+
+Red Flags:
+- $21.25M False Claims Act settlement (2021): Akron General paid physicians above fair market value for referrals — Anti-Kickback Statute and Stark Law violations. Whistleblower was fired.
+- $7.6M settlement (2024): False statements to NIH concealing foreign funding sources on three grants.
+- Active class action: deceptive billing practices under Ohio Consumer Sales Practices Act.
+- Senate HELP Committee found Cleveland Clinic "did not clearly designate any portion of its 340B savings for patient drug cost reduction."
+- No clinical background whatsoever. Finance executive advising on healthcare delivery.
+- Cleveland Clinic benefits from the Medicare site-payment disparity: traditional hospitals collect 3–5x more from Medicare than physician-owned facilities for the same procedures.
+
+POH Relevance:
+Cleveland Clinic is among the most direct financial beneficiaries of the Section 6001 ban and the Medicare site-payment disparity. Its CFO advising CMS on payment policy is a direct pipeline from America's most prestigious hospital brand to the reimbursement rules protecting its competitive position against physician-owned alternatives.
+
+Sources:
+1. Cleveland Clinic Leadership — https://my.clevelandclinic.org/about/overview/leadership/laraway-dennis
+2. DOJ Akron General Settlement — https://www.fiercehealthcare.com/regulatory/doj-cleveland-clinic-owned-akron-general-health-system-agrees-to-21-3m-fraud-kickbacks
+3. Senate HELP 340B Report — https://www.help.senate.gov/rep/newsroom/press/chair-cassidy-releases-report-on-340b-reform-calls-for-congressional-action
+4. Ohio Capital Journal 340B — https://ohiocapitaljournal.com/2025/05/30/ohios-cleveland-clinic-faces-questions-over-booming-subsidies/
+
+--- MEMBER 09 ---
+Name: Dan Liljenquist, JD
+Nickname: The Bain Strategist Inside Intermountain
+Title: EVP & Chief Strategy Officer
+Organization: Intermountain Health
+Sector: Hospital System Strategy / Medicare Advantage
+Base: Salt Lake City, UT
+
+Overview:
+A Bain-trained strategist who wrote Utah's Medicaid growth cap as a state legislator — the first state Medicaid cap in the nation — then became chief strategist for Intermountain Health, one of the nation's largest nonprofit systems. Intermountain owns SelectHealth (a Medicare Advantage insurer, 1M+ members) and Castell ($86.7M in Medicare ACO savings in 2023, second-highest nationally). He advises CMS on Medicare Advantage sustainability while his employer profits directly from MA contracts.
+
+Career Arc:
+- EVP & Chief Strategy Officer, Intermountain Health (Current)
+- Utah State Senator, R (2009–2011)
+- US Senate primary candidate, Utah (2012)
+- Management Consultant, Bain & Company Dallas (2001–2003)
+
+Business Interests & Affiliations:
+- Intermountain Health — $15B+ nonprofit, 33 hospitals, 385 clinics, 3,800+ physicians.
+- SelectHealth — Intermountain's MA insurer, 1M+ members in UT, ID, NV, CO.
+- Castell — Intermountain's ACO, $86.7M Medicare savings in 2023, shared $44M with providers.
+- Civica Rx — architect and board chair. Nonprofit generic drug company, 80 medications, 1,500+ hospitals.
+- Graphite Health — nonprofit health data interoperability platform, board chair.
+- UnitedHealthcare ACO partnership for MA members.
+- Federal lobbying: $230,000 in 2024. InterMountain PAC: $227,572 in 2024 cycle.
+
+Red Flags:
+- The MA conflict is the most material. Advises CMS on "Medicare Advantage sustainability" while Intermountain owns SelectHealth (MA insurer) and Castell ($86.7M in Medicare savings). Every recommendation on MA payment rates directly affects Intermountain revenue.
+- Oversaw Intermountain's Government Relations team running the $230K/year federal lobbying operation — then moved to advise the agency being lobbied.
+- As Utah state senator, wrote Medicaid cap legislation, then went to work for a system that collects that Medicaid revenue. Classic revolving door, executed with sophistication.
+- Dual role: chaired Civica Rx while serving as top strategist for one of its founding member organizations.
+
+POH Relevance:
+Intermountain is exactly the type of large nonprofit system whose market dominance was protected by the Section 6001 POH ban. No public statements from Liljenquist on physician-owned hospitals were found. His advisory role on MA policy directly serves Intermountain's SelectHealth MA revenue.
+
+Sources:
+1. Intermountain Leadership — https://intermountainhealthcare.org/about/who-we-are/leadership/daniel-r-liljenquist
+2. Civica Rx Board — https://civicarx.org/board-of-directors/
+3. Graphite Health Board — https://www.graphitehealth.io/about/team/dan-liljenquist
+4. Castell ACO Savings — https://news.intermountainhealth.org/castells-proactive-care-approach-makes-intermountain-health-a-national-leader-in-medicare-aco-quality-and-savings-performance/
+
+--- MEMBER 10 ---
+Name: Andrew Lynch, PhD
+Nickname: Acadia Healthcare's Man at the Table
+Title: Chief Strategy Officer
+Organization: Acadia Healthcare
+Sector: For-Profit Behavioral Health
+Base: Franklin, TN
+
+Overview:
+Chief strategist of the largest pure-play for-profit behavioral health company in America — 260+ facilities, 70,000+ patients daily — which is under active DOJ criminal investigation, carries a Corporate Integrity Agreement from a prior $17M fraud settlement, and faces $800M+ in fraud settlements and jury verdicts including mass sexual assault lawsuits across multiple states. He now advises CMS on healthcare policy.
+
+Career Arc:
+- Chief Strategy Officer, Acadia Healthcare (November 2022–Present)
+- VP Home Solutions ($2B) / VP Healthcare Services BD ($500M+ acquisitions), Humana
+- Principal, Strategy & Operations, Google/Verily (30+ healthtech investments)
+- Consultant, McKinsey & Company
+
+Business Interests & Affiliations:
+- Acadia Healthcare — 260+ facilities in 39 states, 70,000+ patients/day. Largest pure-play for-profit behavioral health company in the US.
+- NABH board chair-elect (National Association for Behavioral Healthcare).
+- Acadia lobbying: ~$522,500 through Armory Hill Advocates since 2021 on Medicare behavioral health regulations.
+
+Red Flags:
+- Active DOJ/SDNY criminal investigation (September 2024) on admissions, length of stay, and billing.
+- Grand jury subpoena (W.D. Missouri) same day as DOJ request.
+- SEC anticipated document requests disclosed in September 2024 8-K.
+- $19.85M DOJ False Claims Act settlement (2024): knowingly billed Medicare, Medicaid, TRICARE for medically unnecessary inpatient behavioral services.
+- $17M settlement (2019) — largest healthcare fraud settlement in West Virginia history. Active five-year Corporate Integrity Agreement with HHS-OIG.
+- $400M and $405M jury verdicts (2023) for sexual abuse of minors at facilities.
+- New York Times investigation (September 2024): Acadia detained patients against their will in at least 12 states, holding people until insurance ran out, charging up to $2,200/day.
+- $31M in investigation-related costs in Q1 2025 alone.
+- Fourth Circuit (February 2025): reversed dismissal of qui tam case alleging fabricated therapy notes and billing for sessions that never happened.
+
+POH Relevance:
+Lynch is the chief strategist of a company under active federal criminal investigation with $800M+ in fraud settlements and jury verdicts. He advises CMS on healthcare policy while his company lobbies the same agency. No stated interest in physician ownership.
+
+Sources:
+1. DOJ Settlement — Acadia — https://www.justice.gov/archives/opa/pr/acadia-healthcare-company-inc-pay-1985m-settle-allegations-relating-medically-unnecessary
+2. Acadia Lawsuit Tracker — https://www.torhoermanlaw.com/acadia-healthcare-lawsuit/
+3. Fourth Circuit Wheeler v. Acadia — https://law.justia.com/cases/federal/appellate-courts/ca4/23-2101/23-2101-2025-02-03.html
+4. Options Facility Closure — https://mirrorindy.org/options-behavioral-health-closing-acadia-healthcare-abuse-allegations/
+
+--- MEMBER 11 ---
+Name: Russ Thomas, JD
+Nickname: The Claims Infrastructure Gatekeeper
+Title: CEO
+Organization: Availity
+Sector: Health IT / Claims Processing
+Base: Jacksonville, FL
+
+Overview:
+Runs Availity — the nation's largest health information network, processing 13 billion healthcare transactions annually across 3M+ providers and 2,000 health plans. Availity is owned by a consortium of the nation's largest health insurers: Elevance Health (Anthem), Humana, HCSC (BCBS IL/NM/OK/TX), GuideWell (Florida Blue), and BCBS Minnesota. Thomas sits on a committee that wants to "expand real-time data and speed claims processing" — which is literally what Availity sells.
+
+Career Arc:
+- CEO, Availity (Current)
+- CEO, Gold Standard — drug information database sold to Reed Elsevier 2006
+- Senior Executive, Reed Elsevier
+- Chair, Florida Chamber of Commerce Healthcare Policy Council
+
+Business Interests & Affiliations:
+- Availity — 13 billion transactions/year, 3M+ providers, 2,000 health plans, 1,000 technology partners.
+- Owned by: Elevance Health (Anthem), Humana, HCSC, GuideWell (Florida Blue), BCBS Minnesota, Novo Holdings.
+- Founded 2001 as joint venture between Florida Blue and Humana.
+- AI-powered prior authorization and utilization management workflows.
+
+Red Flags:
+- Direct commercial interest in committee priorities — "real-time data for claims processing" is Availity's core product.
+- Owned by major insurers who participate in every program this committee advises on.
+- CMS's Prior Authorization Final Rule reshapes the market Availity dominates. Thomas advises the agency writing rules his company must comply with and profit from.
+- Dual policy influence: chairs Florida Chamber Healthcare Policy Council while advising CMS federally.
+
+POH Relevance:
+Availity's payer-owned transaction infrastructure is the claims backbone for the incumbent system. Real-time data initiatives that benefit Availity's insurer owners do not serve physician-owned hospital access. No stated interest in physician ownership.
+
+Sources:
+1. Availity Executive Profile — https://www.availity.com/executive-leadership/russ-thomas/
+2. HIStalk Interview — https://histalk2.com/2024/05/08/histalk-interviews-russ-thomas-ceo-availity-2/
+3. Availity History — https://www.availity.com/history/
+
+--- MEMBER 12 ---
+Name: Kimberly Brandt, JD
+Nickname: The Revolving Door Made Flesh
+Title: Deputy Administrator & COO
+Organization: CMS
+Sector: Government / Lobbying / Private Equity
+
+Overview:
+Six turns through the revolving door: HHS-OIG to CMS to Alston & Bird health fraud defense to Senate Finance Committee to CMS Trump 1.0 (led Stark Law reform) to TDY lobbying firm (Pfizer, AbbVie, Elevance as clients, $109.4M lifetime firm lobbying income) to joined board of Noridian Healthcare Solutions (a CMS Medicare Administrative Contractor) in September 2024, then returned to run CMS operations January 2025. She was also accused by House Democrats in March 2026 of providing inaccurate testimony to Congress regarding Medicaid funding deferrals.
+
+Career Arc:
+- Deputy Administrator & COO, CMS — Trump 2.0 (January 2025–Present)
+- Partner, Tarplin Downs & Young (TDY) lobbying firm
+- Board, Noridian Healthcare Solutions — CMS MAC (September 2024–January 2025)
+- Advisor, Enhanced Healthcare Partners (PE, 30 portfolio companies)
+- Principal Deputy Administrator, CMS — Trump 1.0
+- Chief Counsel to Sen. Orrin Hatch, Senate Finance Committee (2011–2017)
+- Senior Counsel, Alston & Bird LLP (health fraud defense)
+- Director, Medicare Program Integrity, CMS (7 years)
+- Special Counsel, HHS-OIG
+
+Red Flags:
+- Noridian conflict: joined the board of a CMS Medicare Administrative Contractor in September 2024 and returned to run CMS operations four months later. No public ethics waiver or recusal disclosed.
+- Registered lobbyist representing 52 clients in 2023. TDY lifetime firm lobbying income: $109.4M.
+- PE advisor turned regulator — Enhanced Healthcare Partners' portfolio depends on Medicare/Medicaid reimbursement she now controls.
+- Accused of misleading Congress (March 2026): testified CMS couldn't schedule a Minnesota Medicaid hearing due to "ongoing litigation" — two days later she herself requested the stay. Reps. Pallone and Clarke gave her until April 7 to revise testimony.
+- Medicaid deferrals launched against Minnesota, California, New York, Maine, Florida — Democrats allege politically targeted.
+
+POH Relevance:
+Led Stark Law reform at CMS during Trump 1.0 — creating value-based exceptions to physician self-referral rules that intersect with Section 6001. Represents the regulatory architecture governing physician ownership. No stated interest in expanding physician-owned hospitals.
+
+Sources:
+1. CMS Leadership Bio — https://www.cms.gov/about-cms/who-we-are/leadership/kimberly-brandt
+2. Accused of Misleading Congress — https://www.healthcaredive.com/news/house-democrats-accuse-cms-kimberly-brandt-mislead-under-oath/815813/
+3. OpenSecrets Lobbying Profile — https://www.opensecrets.org/federal-lobbying/lobbyists/summary?cycle=2023&id=Y0000044263L
+4. Noridian Board Appointment — https://www.globenewswire.com/news-release/2024/09/17/2947655/0/en/Kim-Brandt-Joins-Noridian-s-Board-of-Directors.html
+5. ProPublica Trump Town — https://projects.propublica.org/trump-town/staffers/kimberly-l-brandt
+
+--- MEMBER 13 ---
+Name: Stephanie Carlton
+Nickname: The McKinsey Partner Running CMS
+Title: Deputy Administrator & Chief of Staff
+Organization: CMS
+Sector: Government / Management Consulting
+
+Overview:
+The ideological architect in the room. Authored the Patients' Choice Act as Republican Senate Finance staff — the conservative ACA alternative proposing tax credits and state-based markets. Spent years as a McKinsey partner building the consulting playbook for health system reform. Was Acting CMS Administrator before Dr. Oz was confirmed. Now oversees $1.7 trillion in federal health spending. CPAC USA 2026 speaker.
+
+Career Arc:
+- Deputy Administrator & Chief of Staff, CMS (January 2025–Present)
+- Acting CMS Administrator (Early 2025)
+- Partner, McKinsey & Company — SHaPE Practice, Center for U.S. Health System Reform
+- Harvard Kennedy School resident fellow (2022)
+- Guest lecturer, Wharton
+- Republican staff, Senate Finance Committee — authored Patients' Choice Act
+- Labor & delivery nurse
+- Board of "major pro-life nonprofit"
+
+Red Flags:
+- McKinsey's history in healthcare includes work that has been criticized for optimizing revenue extraction over patient outcomes. Carlton built McKinsey's health system reform playbook.
+- The Patients' Choice Act she authored was the conservative counter-vision to the ACA — every policy recommendation she makes filters through this ideological lens.
+- Acting Administrator before Oz — she set the initial direction of the agency in the current administration.
+- CPAC 2026 speaker signals continued political alignment beyond the advisory role.
+
+POH Relevance:
+Carlton is the ex officio filter through which all committee recommendations pass at CMS. Her McKinsey background and conservative policy ideology represent the management consulting and deregulatory frameworks that govern how CMS interprets physician ownership questions. No stated interest in expanding physician-owned hospitals.
+
+Sources:
+1. CMS Leadership Page — https://www.cms.gov/about-cms/who-we-are/leadership/stephanie-carlton
+2. FAHP Bio — https://www.fahp.net/stephanie-carlton-bio
+3. CPAC 2026 — https://www.cpac.org/post/stephanie-carlton-to-join-cpac-usa-2026
+
+--- MEMBER 14 ---
+Name: Sebastian Caliri
+Nickname: The Palantir-to-8VC Pipeline
+Title: Partner
+Organization: 8VC
+Sector: Venture Capital / Health Tech
+
+Overview:
+Led healthcare at Palantir Technologies — a CIA-backed defense/intelligence data company — where he built relationships with HHS, CDC, and CMS as a vendor. Now invests in health tech through 8VC, a $6B+ fund run by Joe Lonsdale, Palantir co-founder, $1M+ Trump donor, and political confidant of Elon Musk. Sits on a CMS advisory committee while his portfolio companies seek to sell into the same agency.
+
+Career Arc:
+- Partner, healthcare team lead, 8VC (Current)
+- Led healthcare division, Palantir Technologies
+- Board member, Candid Health (revenue cycle automation)
+- Stanford MD program (one year)
+- BS/MS magna cum laude, Yale — Molecular Biophysics & Biochemistry
+
+Business Interests & Affiliations:
+- 8VC — $6B+ AUM. Run by Joe Lonsdale (Palantir co-founder, ~$3.3B net worth, $1M+ America PAC / Elon Musk's pro-Trump super PAC).
+- 8VC healthcare investments include Oscar Health (health insurance) — notable because Bill Gassen also sits on Oscar's board.
+- Palantir healthcare contracts include HHS, CDC, and CMS.
+- Caliri's published position: billing codes constrain innovation; CMS must create new payment categories — i.e., categories his portfolio companies can bill into.
+
+Red Flags:
+- Built government relationships at Palantir selling data analytics to CMS and HHS. Now invests in health tech through 8VC. Sits on a committee advising the same agencies his former employer contracts with and his current portfolio companies seek to sell into.
+- 8VC/Lonsdale is a Trump-aligned political operation. Committee appointment connects VC deal flow to federal policy.
+- Oscar Health crossover: 8VC invested in Oscar; Gassen sits on Oscar's board; both sit on this committee.
+- Published advocacy for new CMS billing categories is a direct financial interest dressed as policy opinion.
+
+POH Relevance:
+Caliri represents the venture capital layer seeking to capture new CMS payment categories for health tech. This agenda serves platform companies, not physician owners. No stated interest in physician ownership expansion.
+
+Sources:
+1. 8VC Team Page — https://www.8vc.com/team/sebastian-caliri
+2. Joe Lonsdale Wikipedia — https://en.wikipedia.org/wiki/Joe_Lonsdale
+3. Caliri Medium Post — https://medium.com/8vc-news/what-happened-to-the-future-of-healthcare-c98aafd53016
+
+--- MEMBER 15 ---
+Name: Tony Robbins
+Nickname: The Celebrity Play
+Title: Author / Investor
+Organization: Fountain Life / Celularity
+Sector: Wellness / Longevity Biotech
+
+Overview:
+Motivational speaker turned longevity investor. Co-founder of Fountain Life ($21,500/year subscription diagnostics, $108M raised) and investor in Celularity (stem cell therapeutics, $250M raised). Co-authored "Life Force" with his business partners — a #1 NYT bestseller that promoted companies he owns. Trump donor. Appeared at a CMS quality conference, reportedly impressing Dr. Oz enough to earn a committee seat. Zero healthcare policy expertise.
+
+Career Arc:
+- Co-Founder & board member, Fountain Life (Current)
+- Investor, Celularity
+- Author, "Life Force" (2022), "Money: Master the Game," etc.
+- Motivational speaker / seminar empire
+- 140+ privately held businesses, combined sales exceeding $7B annually
+
+Business Interests & Affiliations:
+- Fountain Life — AI-powered longevity/diagnostics, $21,500/year subscription, six centers, $108M raised (Series A + B), co-founded with Peter Diamandis and Dr. Robert Hariri.
+- Celularity — stem cell therapeutics, $250M raised, founded by Hariri.
+- "Life Force" (2022) #1 NYT bestseller — co-authored with Diamandis and Hariri. Promotes companies Robbins is invested in.
+- Hosted Trump "Making America Healthy Again" town hall (October 2024).
+- RFK Jr. approached Robbins twice as potential VP running mate. Robbins declined.
+
+Red Flags:
+- Zero healthcare policy expertise. No medical degree, no policy credentials, no operational healthcare experience. Qualification is celebrity, wealth, and political access.
+- Direct commercial conflict: if committee recommends CMS coverage for precision diagnostics, longevity screening, or regenerative medicine, Robbins' companies benefit directly.
+- "Life Force" is effectively a 400-page advertisement for companies Robbins owns. Co-authors are his business partners.
+- Stem cell hype: promotes "as-yet unproven" therapies through companies he owns.
+- Health policy community reaction to his appointment: "somewhere between confusion and amusement."
+
+POH Relevance:
+No connection to physician ownership whatsoever. Robbins' commercial interests are in direct-pay longevity and diagnostics — a market that benefits from CMS coverage expansion but has nothing to do with the physician-owned hospital question.
+
+Sources:
+1. Bloomberg Law — RFK Jr. Taps Robbins — https://news.bloomberglaw.com/health-law-and-business/rfk-jr-taps-tony-robbins-trump-donor-for-advisory-committee
+2. TechCrunch — Fountain Life Raise — https://techcrunch.com/2025/08/13/tony-robbins-and-peter-diamandis-longevity-company-fountain-life-raises-18m/
+3. CNN — RFK Jr. VP Outreach — https://www.cnn.com/2024/03/18/politics/tony-robbins-rfk-jr-vice-president-running-mate-outreach
+
+--- MEMBER 16 ---
+Name: Ursel J. McElroy, MA
+Nickname: The State Aging Director
+Title: Director
+Organization: Ohio Department of Aging
+Sector: State Government / Long-Term Care
+Base: Columbus, OH
+
+Overview:
+30-year Ohio state government official. No corporate affiliations, no PE ties, no lobbying registrations. Administers Ohio's PASSPORT Medicaid waiver for home-based long-term services. Chaired Governor DeWine's Nursing Home Quality & Accountability Task Force. The relevant context is structural: Ohio's aging policy operates within an ecosystem where the nursing home industry spent $6M+ on Ohio politics in five years and Governor DeWine, who appointed McElroy, received at least $300,000 from nursing home industry operators.
+
+Career Arc:
+- Director, Ohio Department of Aging (2019–Present)
+- President, ADvancing States Board
+- Various roles, Ohio AG's Office (10 years)
+- Various roles, Ohio Dept. of Youth Services
+- Various roles, Ohio DJFS
+- Adult Protective Services
+- Presented at White House Conference on Aging
+
+Red Flags:
+- Structural capture: Ohio's aging policy ecosystem is heavily influenced by the nursing home industry ($6M+ in Ohio political spending in five years). DeWine (who appointed McElroy) received $300,000+ from nursing home operators.
+- Neil Clark, powerful GOP lobbyist for Ohio Health Care Association (nursing home trade group), indicted in corruption scheme before dying by suicide in 2021.
+- No personal misconduct found — the structural capture of the ecosystem she operates in is the relevant context.
+
+POH Relevance:
+No connection to physician ownership. Focuses on long-term care, Medicaid waivers, and aging services. No stated interest in physician-owned hospital policy.
+
+Sources:
+1. Ohio Dept. of Aging Bio — https://www.gongwer-oh.com/directories/bio.cfm?nameid=271702
+2. Ohio Capital Journal — Nursing Home Political Spending — https://ohiocapitaljournal.com/2021/04/19/nursing-homes-spent-at-least-6-million-on-ohio-politics-in-five-years/
+
+--- MEMBER 17 ---
+Name: Valerie D. Huhn
+Nickname: Missouri Mental Health Under DOJ Scrutiny
+Title: Director
+Organization: Missouri Department of Mental Health
+Sector: State Government / Behavioral Health
+Base: Jefferson City, MO
+
+Overview:
+26-year Missouri state government bureaucrat. No private sector employment, no corporate board seats, no investment interests. Oversees ~7,500 state employees and ~170,000 Missourians served annually. In June 2024 the DOJ found Missouri violated the ADA by unnecessarily institutionalizing 3,289 adults with mental health disabilities under her watch. An active federal class action filed November 2025 alleges 500+ Missourians languishing in jails awaiting court-ordered mental health services, with average waits of 14 months. She now advises the federal committee on "vulnerable populations."
+
+Career Arc:
+- Director, Missouri Department of Mental Health (January 2022–Present)
+- Deputy Director, Missouri DMH
+- Director, Division of Developmental Disabilities
+- Budget analyst, Multiple Missouri departments
+
+Red Flags:
+- DOJ ADA violation finding (June 2024): Missouri unnecessarily institutionalized 3,289 adults with mental health disabilities. "Almost none" needed nursing facility placement. Missouri's guardianship system functioned as a "pipeline to nursing facilities."
+- Federal class action — Darrington v. DMH (November 2025): 500+ Missourians in jails awaiting competency restoration. Average wait: 14 months. Waitlist grew 88% since September 2023.
+- $80.7M disability care cuts proposed (February 2026): Huhn acknowledged cuts would create waitlists but did not publicly oppose them.
+- No private financial conflicts — the story is institutional failure being rewarded with a federal advisory role.
+
+POH Relevance:
+No connection to physician ownership. The relevant concern is that an official whose state has been found by the DOJ to be systematically failing vulnerable populations is now advising CMS on vulnerable population policy.
+
+Sources:
+1. DOJ Missouri ADA Findings — https://www.justice.gov/d9/2024-06/2024_missouri_ada_findings_report.pdf
+2. MacArthur Justice Center Lawsuit — https://www.macarthurjustice.org/advocates-sue-missouri-department-of-mental-health-for-failing-to-treat-pretrial-detainees-living-with-mental-illness-and-disabilities/
+3. Missouri Independent — 500+ in Jails — https://missouriindependent.org/2026/02/05/more-than-500-missourians-await-court-ordered-mental-health-services-languishing-in-jails/
+
+--- MEMBER 18 ---
+Name: Jenni Gudapati, PhD
+Nickname: The Idaho Value-Based Care Academic
+Title: CEO / Director
+Organization: Amethyst Solutions / Boise State University
+Sector: Home Health / Value-Based Care Education
+Base: Boise, ID
+
+Overview:
+The smallest-scale operator on the committee. Created the nation's first partnered master's degree in Population & Health Systems Management. Former president of Idaho Association for Home Care. CMS Hospice & Home Health Quality Reporting TEP member. No mega-system affiliation, no PE backing. No controversies found. Her consulting business benefits from the value-based care ecosystem the committee will shape.
+
+Career Arc:
+- CEO, Amethyst Solutions (Current)
+- Director, Boise State University Value-Based Healthcare Program (Current)
+- President, Idaho Association for Home Care
+- Co-chair, Idaho Healthcare Transformation Council Telehealth Task Force
+- Member, CMS Hospice & Home Health Quality Reporting Technical Expert Panel
+
+Red Flags:
+- Consulting business (Amethyst Solutions) benefits from value-based care frameworks the committee will shape — modest but present commercial interest.
+- No significant conflicts identified beyond this structural observation.
+
+POH Relevance:
+No connection to physician ownership. Focuses on home health, hospice quality, and rural/senior populations. The most conflict-free member on the committee alongside Thomas-Hemak.
+
+Sources:
+1. Boise State Faculty — https://www.boisestate.edu/phsm/faculty/gudapati/
+2. Amethyst Solutions — https://www.amethystsolutions.org/about
+
+============================================================
+PATTERN ANALYSIS
+============================================================
+
+Sector Breakdown:
+- Hospital Systems / Finance (3): Gassen, Laraway, Liljenquist
+- Value-Based Care / Managed Care (3): Bessler, Carmouche, Gudapati
+- Primary Care Consolidation (1): Fields
+- Insurance-Adjacent / Claims (2): Rhee, R. Thomas
+- For-Profit Behavioral Health (1): Lynch
+- Government / CMS (2): Brandt, Carlton
+- Venture Capital / Health Tech (1): Caliri
+- Wellness / Celebrity (1): Robbins
+- State Government (2): McElroy, Huhn
+- Safety Net / FQHCs (1): Thomas-Hemak
+- Nursing Homes / Post-Acute (1): Fago
+
+Who Is NOT at the Table:
+- Independent physician practice owners
+- Physician-owned hospital operators
+- Rural hospital administrators (non-system)
+- Patient advocacy organizations
+- Healthcare antitrust experts
+- Medical school debt / workforce experts
+- Uninsured or underinsured patient representatives
+- Direct primary care physicians
+- Emergency medicine independent groups
+- Physicians who have testified against hospital consolidation
+
+============================================================
+Publisher: The Rojas Report — https://rojasreport.com
+Dutch Rojas — https://x.com/dutchrojas
+Research compiled March 28, 2026. All sources publicly available.

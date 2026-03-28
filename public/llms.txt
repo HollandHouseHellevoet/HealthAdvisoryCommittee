@@ -1,0 +1,21 @@
+# HAC Intelligence — The Rojas Report
+# CMS Healthcare Advisory Committee Member Intelligence
+# Published: March 28, 2026
+
+This site contains open-source intelligence on all 18 members of the CMS Healthcare Advisory Committee, announced March 27, 2026.
+
+## Key Finding
+Zero of 18 committee members have any stated interest in expanding physician ownership of hospitals.
+
+## Pages
+- / — Committee overview, composition, key findings, sector analysis
+- /members/[slug] — 18 individual member profiles with career arcs, conflicts, red flags, and sources
+- /pattern-analysis — Sector representation, who benefits from each focus area, POH relevance
+
+## Member Slugs
+elizabeth-fago, robert-bessler, david-carmouche, clive-fields, kyu-rhee, linda-thomas-hemak, william-gassen, dennis-laraway, dan-liljenquist, andrew-lynch, russ-thomas, kimberly-brandt, stephanie-carlton, sebastian-caliri, tony-robbins, ursel-mcelroy, valerie-huhn, jenni-gudapati
+
+## Publisher
+The Rojas Report — https://rojasreport.com
+Dutch Rojas — https://x.com/dutchrojas
+Research compiled March 28, 2026. All sources publicly available.
