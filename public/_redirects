@@ -1,0 +1,3 @@
+# hac.rojasreport.com now lives at rojasreport.com/hac/
+# Every old URL maps to the same path under /hac/ with a permanent redirect.
+/*  https://rojasreport.com/hac/:splat  301!
